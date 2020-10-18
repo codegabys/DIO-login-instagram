@@ -1,6 +1,6 @@
 # Recriando a página inicial do Instagram 🚀
 
-Esse é o repositório da aula de Flexbox, na qual fiz a interface de login do Instagram! 
+Aula de Flexbox, na qual foi feito a interface de login do Instagram! 
 
 ### Os requisitos são:
 
