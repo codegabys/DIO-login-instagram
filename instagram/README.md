@@ -9,7 +9,7 @@ Aula de Flexbox e responsividade! Em base da aula ministrada pela Gabriela Pinhe
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-<img src="img\login.jpeg" height="90" width="100">
+<img src="img\login.jpeg" height="100" width="170">
 
-<img src="img\logincelular.jpeg"  height="90" >
+<img src="img\logincelular.jpeg"  height="100" width="170" >
 
