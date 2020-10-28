@@ -11,11 +11,11 @@ Aula de Flexbox e responsividade! Em base da aula ministrada pela @gabriela-pinh
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 <div class="box">
-    <img src="img\login.jpeg"/>
+    <img src="img\login.jpeg" width="200px" height="90px"/>
     <span> Tela de login no computador </span>
 </div>
 <div class="box">
-    <img src="img\logincelular.jpeg"/>
+    <img src="img\logincelular.jpeg" width="200px" height="90px"/>
     <span> Tela de login de um dispositivo móvel</span>
 </div>
 
