@@ -10,10 +10,24 @@ Aula de Flexbox e responsividade! Em base da aula ministrada pela @gabriela-pinh
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-<img src="img\login.jpeg" height="100" width="170">
+<div class="box">
+    <img src="img\login.jpeg"/>
+    <span> Tela de login no computador </span>
+</div>
+<div class="box">
+    <img src="img\logincelular.jpeg"/>
+    <span> Tela de login de um dispositivo móvel</span>
+</div>
 
-<img src="img\logincelular.jpeg"  height="100" width="170" >
 
+
+<style>
+div.box {
+	width: 100px;
+
+	display: inline-block;
+}
+</style>
 
 
 
