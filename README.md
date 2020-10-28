@@ -19,16 +19,7 @@ Aula de Flexbox e responsividade! Em base da aula ministrada pela @gabriela-pinh
     <span> Tela de login de um dispositivo móvel</span>
 </div>
 
-
-
-<style>
-div.box {
-	width: 100px;
-
-	display: inline-block;
-}
-</style>
-
+<br>
 
 
 <img src="logo-dio.png" >
