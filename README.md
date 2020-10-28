@@ -17,7 +17,7 @@ Aula de Flexbox e responsividade! Em base da aula ministrada pela @gabriela-pinh
 
 
 
-<img src="logo-dio.png" height="70" width="100">
+<img src="logo-dio.png" >
 
 A Digital Innovation One é uma comunidade educacional gratuita para desenvolvedores de software aprender, praticar e se conectar com grandes oportunidades.<br>
 Apartir do conhecimento adquirido vou estar realizando os projetos estudados juntamente com os professores da plataforma.
