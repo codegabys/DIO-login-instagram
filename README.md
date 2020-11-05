@@ -2,7 +2,7 @@
 
 ## Let's code! :computer:
 
-Aula de Flexbox e responsividade! Em base da aula ministrada pela @gabriela-pinheiro, fiz minha versão da interface de login do Instagram! 
+Aula de Flexbox e responsividade! Em base da aula ministrada pela @SpruceGabriela, fiz minha versão da interface de login do Instagram! 
 
 
 ### Os requisitos são:
@@ -30,4 +30,8 @@ Apartir do conhecimento adquirido vou estar realizando os projetos estudados jun
 ## Bootcamp: 
 HTML Web Developer 
 
-> Status do Projeto: Em desenvolvimento :warning:
+> Status do Bootcamp: Concluído :heavy_check_mark:
+<!--
+> Status do Projeto: Concluido :heavy_check_mark:
+
+> Status do Projeto: Em desenvolvimento :warning:-->

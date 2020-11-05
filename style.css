@@ -118,6 +118,7 @@ input {
     color: #080800;
     border-radius: 20px;
     margin-top: 5px;
+    cursor: pointer;
     transition: color 300ms;
   }
 
